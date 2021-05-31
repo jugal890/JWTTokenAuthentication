@@ -1,0 +1,17 @@
+D:\Coedify Test\ASP Net Core\Web API authentication\JWTAuthentication\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Coedify Test\ASP Net Core\Web API authentication\JWTAuthentication\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Coedify Test\ASP Net Core\Web API authentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.deps.json
+D:\Coedify Test\ASP Net Core\Web API authentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.runtimeconfig.json
+D:\Coedify Test\ASP Net Core\Web API authentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.runtimeconfig.dev.json
+D:\Coedify Test\ASP Net Core\Web API authentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.dll
+D:\Coedify Test\ASP Net Core\Web API authentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.pdb
+D:\Coedify Test\ASP Net Core\Web API authentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.csprojAssemblyReference.cache
+D:\Coedify Test\ASP Net Core\Web API authentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.AssemblyInfoInputs.cache
+D:\Coedify Test\ASP Net Core\Web API authentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.AssemblyInfo.cs
+D:\Coedify Test\ASP Net Core\Web API authentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.csproj.CoreCompileInputs.cache
+D:\Coedify Test\ASP Net Core\Web API authentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.RazorAssemblyInfo.cache
+D:\Coedify Test\ASP Net Core\Web API authentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.RazorAssemblyInfo.cs
+D:\Coedify Test\ASP Net Core\Web API authentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.RazorTargetAssemblyInfo.cache
+D:\Coedify Test\ASP Net Core\Web API authentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.dll
+D:\Coedify Test\ASP Net Core\Web API authentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.pdb
+D:\Coedify Test\ASP Net Core\Web API authentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.genruntimeconfig.cache
